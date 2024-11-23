@@ -2,9 +2,7 @@
 
 # PROGRAM   - PCA Bootstrapping Assignment Question
 
-# SUMMARY   - In this program we analyse whether the mean travel time from a 
-#             certain suburb to the city centre differs by mode of transport 
-#             (specifically bus, car or cycle).
+# SUMMARY   - This program constitutes Assignment 3 solutions
 #
 #             Section 1:
 #             Read in original NZDEP18 Study and obtaining the eigenvalue & eigenvector corresponding
